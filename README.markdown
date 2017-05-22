@@ -1,4 +1,4 @@
-Modification to DuePi by Radioelf (5/22/2017)
+Modification for board DuePi and DronPi by Radioelf (5/22/2017)
 =============================================
 
 [http://radioelf.blogspot.com.es](http://radioelf.blogspot.com.es/)
