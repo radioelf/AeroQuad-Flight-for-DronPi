@@ -1,11 +1,11 @@
-Modification for board DuePi and DronPi by Radioelf (5/22/2017)
+Modification for board DuePi and DronPi (5/22/2017)
 =============================================
 
 [http://radioelf.blogspot.com.es](http://radioelf.blogspot.com.es/)
 
 [https://github.com/radioelf](https://github.com/radioelf/AeroQuad-Flight-for-DronPi)
 
-AeroQuad Flight Software Source Code v3.2 Mod. for DronePi
+AeroQuad Flight Software Source Code v3.2 Mod. for DronPi
 
 ----------------------------------------------------------
 
