@@ -5,10 +5,9 @@ Modification to DuePi by Radioelf (5/22/2017)
 
 [https://github.com/radioelf](https://github.com/radioelf/AeroQuad-Flight-for-DronPi)
 
-----------------------------------------------------------
-
 AeroQuad Flight Software Source Code v3.2 Mod. for DronePi
-web
+
+----------------------------------------------------------
 
 AeroQuad Flight Software Source Code v3.2
 ========================================
